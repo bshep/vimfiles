@@ -3,7 +3,7 @@ vimfiles
 Here is my current vim setup. For syntastic to work we need jsl, pyflakes and tidyp.
 
     sudo brew install jsl
-    sudo brew install pyflakes
+    sudo pip install pyflakes
     sudo brew install tidyp
 
 To complete TagList install we must install ctags
