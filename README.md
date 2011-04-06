@@ -26,3 +26,4 @@ To complete TagList install we must install ctags
 - pathogen
 - sparkup
 - TagList
+- colorx.vim
