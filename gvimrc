@@ -181,7 +181,7 @@ if filereadable(expand("~/.gvimrc.local"))
   source ~/.gvimrc.local
 endif
 
-set guifont=Inconsolata:h14
+set guifont=Inconsolata:h15
 set guioptions=aAce
 colorscheme two2tango
 set transparency=0

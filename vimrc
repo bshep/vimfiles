@@ -27,7 +27,7 @@ set showbreak=...
 set wrap linebreak nolist
 
 "add some line space for easy reading
-set linespace=4
+set linespace=1
 
 "disable visual bell
 set visualbell t_vb=
