@@ -31,3 +31,6 @@
 [submodule "bundle/bufexplorer"]
 	path = bundle/bufexplorer
 	url = https://github.com/vim-scripts/bufexplorer.zip.git
+[submodule "snippets"]
+	path = snippets
+	url = https://github.com/scrooloose/snipmate-snippets.git
