@@ -10,3 +10,18 @@
 [submodule "bundle/git.vim"]
 	path = bundle/git.vim
 	url = https://github.com/motemen/git-vim.git
+[submodule "bundle/nerdcommenter"]
+	path = bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "bundle/snipmate.vim"]
+	path = bundle/snipmate.vim
+	url = https://github.com/msanders/snipmate.vim.git
+[submodule "bundle/SuperTab"]
+	path = bundle/SuperTab
+	url = https://github.com/vim-scripts/SuperTab.git
+[submodule "bundle/surround"]
+	path = bundle/surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
