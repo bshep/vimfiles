@@ -186,7 +186,6 @@ set guioptions=aAce
 colorscheme two2tango
 set transparency=0
 let NERDTreeIgnore=['\.pyc$']
-nmap <leader>w :call EasyMotionWB(0,0)<CR>
 nmap <D-C> <ESC>:ColorHEX<CR><insert>
 imap <D-C> <ESC>:ColorHEX<CR><insert>
 nmap <leader>s :ConqueTermSplit bash<CR>

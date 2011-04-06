@@ -28,3 +28,6 @@
 [submodule "bundle/EasyMotion"]
 	path = bundle/EasyMotion
 	url = https://github.com/Lokaltog/vim-easymotion.git
+[submodule "bundle/bufexplorer"]
+	path = bundle/bufexplorer
+	url = https://github.com/vim-scripts/bufexplorer.zip.git
