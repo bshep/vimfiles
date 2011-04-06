@@ -4,3 +4,9 @@
 [submodule "bundle/fugitive.vim"]
 	path = bundle/fugitive.vim
 	url = https://github.com/tpope/vim-fugitive.git
+[submodule "bundle/Command-T"]
+	path = bundle/Command-T
+	url = https://github.com/vim-scripts/Command-T.git
+[submodule "bundle/git.vim"]
+	path = bundle/git.vim
+	url = https://github.com/motemen/git-vim.git
