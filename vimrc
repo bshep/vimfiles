@@ -345,3 +345,6 @@ let rtm_api_key="ae2ad065ce02b87c2ea71275dec31142"
 let rtm_shared_secret="cd8c3c94818c588b"
 let rtm_token="33466aada9a6b60cfee6561c356352efbdd4a7cd"
 nmap 0 ^
+
+"Markdown to HTML  
+nmap <leader>md :%!/usr/local/bin/Markdown.pl --html4tags <CR>
