@@ -348,3 +348,5 @@ nmap 0 ^
 
 "Markdown to HTML  
 nmap <leader>md :%!/usr/local/bin/Markdown.pl --html4tags <CR>
+
+nmap OD h
